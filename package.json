@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/routewasm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Route host/wasm network string helpers for config audits.",
+  "bin": {
+    "routewasm": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/routewasm.git"
+  },
+  "homepage": "https://theworker02.github.io/routewasm/",
+  "keywords": [
+    "route",
+    "wasm",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
